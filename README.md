@@ -1,13 +1,21 @@
 # EXAM_recursion
 
 ## Factorial 
-Rekursiv måde at finde falkulteten (factorial på engelsk) af et tal. Falkulteten er produktet af alle tal fra 1 op til n.
+Rekursiv måde at finde fakulteten (factorial på engelsk) af et tal. Fakulteten er produktet af alle tal fra 1 op til n.
 Altså: 
 <prev><code>factorial(3) = 321 = 6</code></prev>
 <prev><code>factorial(4) = 4321 = 24</code></prev>
 <br>
-Dette kan nemt gøres rekursivt, ved at gange n med falkulteten af n-1. Base case er 1, da falkulteten af 1 er 1 gange 1 = 1.
+Dette kan nemt gøres rekursivt, ved at gange n med fakulteten af n-1. Base case er 1, da fakulteten af 1 er 1 gange 1 = 1.
+
+https://en.wikipedia.org/wiki/Factorial
 
 ## Fibonacci 
+Fibonacci-tallene er betegnelsen for de tal som findes i følgen
+
+<prev><code>0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, ...</code></prev><br>
+Fra og med det tredje fremkommer tallene som summen af de to foregående tal i følgen: 1 = 1 + 0, 2 = 1 + 1, 3 = 2 + 1, 5 = 3 + 2 osv.
+
+https://da.wikipedia.org/wiki/Fibonacci-tal
 
 ## File path 
