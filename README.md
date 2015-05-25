@@ -1,4 +1,6 @@
 # EXAM_recursion
+At kalde en metode indefra den samme metode. Nogle problemer løses lettere rekursivt end iterativt. F.eks. sorteringsalgoritmer som merge sort (?). Generelt fylder rekursive metoder mindre end iterative. 
+Til gengæld er det i næsten alle tilfælde mere effektivt ift. ressourcebrug at løse problemer med iterative algoritmer, pga. stack-brug. Alle rekursive løsninger kan reduceres til iterative.
 
 ## Factorial 
 Rekursiv måde at finde fakulteten (factorial på engelsk) af et tal. Fakulteten er produktet af alle tal fra 1 op til n.
@@ -20,4 +22,4 @@ https://da.wikipedia.org/wiki/Fibonacci-tal
 
 ## File path 
 
-Muligvis for svært. Kom gerne på flere eksempler på rekursion.
+Muligvis for svært. Kom gerne på flere eksempler på rekursion. Måske noget sortering? To fluer med et smæk.
