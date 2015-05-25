@@ -19,3 +19,5 @@ Fra og med det tredje fremkommer tallene som summen af de to foregående tal i f
 https://da.wikipedia.org/wiki/Fibonacci-tal
 
 ## File path 
+
+Muligvis for svært. Kom gerne på flere eksempler på rekursion.
