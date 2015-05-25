@@ -1,4 +1,5 @@
 # EXAM_recursion
+https://youtu.be/Mv9NEXX1VHc?t=2m46s
 At kalde en metode indefra den samme metode. Nogle problemer løses lettere rekursivt end iterativt. F.eks. sorteringsalgoritmer som merge sort (?). Generelt fylder rekursive metoder mindre end iterative. 
 Til gengæld er det i næsten alle tilfælde mere effektivt ift. ressourcebrug at løse problemer med iterative algoritmer, pga. stack-brug. Alle rekursive løsninger kan reduceres til iterative.
 
